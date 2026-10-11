@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "agency-skill: an AI automation agency that runs inside Claude Code"
+abstract: "A free Claude Code skill that runs a small AI automation agency as five agents: outbound emails, sales-call prep and live coaching, proposals and builds, client support, and a night shift."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/agency-skill"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-11"
+keywords:
+  - claude-code
+  - claude-skills
+  - ai-agency
+  - automation
+  - hooks

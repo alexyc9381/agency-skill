@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agency-skill",
+  "description": "The AI agency skill for Claude Code",
+  "owner": {"name": "Alex Chen"},
+  "plugins": [{"name": "agency-skill", "description": "An AI automation agency inside Claude Code: outbound, sales calls, proposals and builds, support, and a night shift.", "source": "./", "category": "productivity", "author": {"name": "Alex Chen", "url": "https://chen.media"}, "homepage": "https://chen.media"}]
+}

@@ -1,0 +1,5 @@
+.court/
+__pycache__/
+.DS_Store
+.mentor/
+.agency/
