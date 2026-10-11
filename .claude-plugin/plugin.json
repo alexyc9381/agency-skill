@@ -3,7 +3,7 @@
   "description": "An AI automation agency inside Claude Code: outbound emails, sales-call prep and live coaching, proposals and builds, client support, and a night shift that works the queue while your computer stays on.",
   "version": "1.0.0",
   "author": {"name": "Alex Chen", "url": "https://chen.media"},
-  "homepage": "https://chen.media",
+  "homepage": "https://chen.media/guides/run-an-ai-agency-inside-claude-five-agents",
   "repository": "https://github.com/alexyc9381/agency-skill",
   "license": "MIT",
   "keywords": ["claude-code", "claude-skills", "ai-agency", "automation", "outbound", "sales"]

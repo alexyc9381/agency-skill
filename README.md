@@ -2,7 +2,7 @@
 
 An AI automation agency that runs inside Claude Code. Five agents, one command. Free, MIT, no signup, no API key.
 
-Made by **Alex Chen** ([@nocodealex](https://instagram.com/nocodealex)), an AI creator who builds free Claude Code skills. Full guide: [chen.media](https://chen.media).
+Made by **Alex Chen** ([@nocodealex](https://instagram.com/nocodealex)), an AI creator who builds free Claude Code skills. Full guide: [chen.media](https://chen.media/guides/run-an-ai-agency-inside-claude-five-agents).
 
 An AI agency used to mean a team on payroll: one person for outreach, one for sales calls, one to build, one to
 answer clients. `/agency` gives each of those jobs to an agent inside Claude, and they hand work to each other.
